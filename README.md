@@ -1,5 +1,6 @@
 # Responsive-Portfolio-Website-Template-
 Responsive Portfolio Website Template using Bootstrap 4
 
-Landing Page Created 
+Landing page created.
+
 Will be adding more pages later
